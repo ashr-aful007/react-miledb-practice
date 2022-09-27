@@ -1,0 +1,21 @@
+.header-section{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding-left: 50px;
+     padding-right: 80px;
+     height: 70px;
+     background-color: rgb(27, 27, 27);
+}
+
+.mile-lable{
+     color: chocolate;
+     font-size: 22px;
+}
+
+.mile-catagory a{
+     color: #fff;
+     text-decoration: none;
+     margin-right: 30px;
+     font-weight: 500;
+}
