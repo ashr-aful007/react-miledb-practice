@@ -6,6 +6,7 @@
      padding-right: 80px;
      height: 70px;
      background-color: rgb(27, 27, 27);
+     position: relative;
 }
 
 .mile-lable{
